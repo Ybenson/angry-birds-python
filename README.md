@@ -1,10 +1,11 @@
-Ybenson Augustave in Python
+Game in Python
 =====================
 
 Requirements
 ------------
 ```bash
-pip install pymunk pygame
+pip install pymunk 
+pip install pygame
 ```
 
 To play
